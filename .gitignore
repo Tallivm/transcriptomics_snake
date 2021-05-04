@@ -1,0 +1,11 @@
+# data
+data/
+
+# results
+fastqc/
+multiqc/
+bbduk/
+
+# logs and programs
+logs/
+bbmap/
