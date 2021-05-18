@@ -1,11 +1,19 @@
 # data
 data/
+play_data_ref_annot/
 
 # results
 fastqc/
 multiqc/
-bbduk/
+trimmed/
+genome/
+star_aligned/
+samtools_sorted/
+fcounts/
+DE_results/
 
-# logs and programs
-logs/
-bbmap/
+# programs
+scripts/
+
+# other
+.snakemake
