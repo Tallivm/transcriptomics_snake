@@ -12,8 +12,5 @@ samtools_sorted/
 fcounts/
 DE_results/
 
-# programs
-scripts/
-
 # other
 .snakemake
